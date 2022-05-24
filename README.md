@@ -8,10 +8,4 @@ On this Github page you can find several projects of mine, ranging from Python g
 
 If anyone finds this Github page, please feel free to leave constructive citizism in my code in order to help me improve!
 
-### Currently actively developing:
- - [SDL-Test-2](https://github.com/TheStaticBits/SDL-Test-2)
-
-### Awards:
- - 5th place at the 2021-2022 BPA National Leadership Competition for the Software Engineering Team Virtual Event
-
 Thanks for spending time checking out my Github page!
