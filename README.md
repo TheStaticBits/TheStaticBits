@@ -1,6 +1,6 @@
 # Hello, random person on the internet!
 
-I'm Matthew! I've finished my freshman year of high school, and I'm heading into my sophomore year. I've been programming for 3+ years.
+I'm Matthew! I'm currently in my sophomore year. I've been programming for 3+ years.
 I'm completely self taught, using online sites (mostly Youtube, StackOverflow, and other such sites) to teach myself programming.
 Hopefully it'll become my career one day!
 
