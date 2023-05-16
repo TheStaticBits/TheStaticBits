@@ -1,4 +1,4 @@
-# Hello, random person on the internet!
+Hi there!
 
 I'm Matthew! I'm currently in my sophomore year. I've been programming for nearly 4 years.
 I'm completely self taught, using online sites (mostly Youtube, StackOverflow, and other such sites) to teach myself programming.
