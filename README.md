@@ -1,12 +1,8 @@
 Hi there!
 
-I'm Matthew! I'm currently in my sophomore year. I've been programming for nearly 4 years.
-I'm completely self taught, using online sites (mostly Youtube, StackOverflow, and other such sites) to teach myself programming.
-Hopefully it'll become my career one day!
+I'm Matthew, a rising junior. I've been programming on and off as a hobby for over 4 years (since April 2019).
+I'm completely self taught, using websites like Youtube, StackOverflow, etc. to teach myself how to programming/code.
+I've played around with Python (Pygame, Django), C++ (OpenGL, SDL), HTML/CSS/JS, and in the past, Unity (though I didn't particularly like it).
+More recently, I've been trying to improve my frontend web design skills in order to develop my own dynamic website where I can put up the little games I make.
 
-On this Github page you can find several projects of mine, ranging from Python games using Pygame to C++ games using SDL2. I've been playing around with C++ for the past year or two, trying out OpenGL and SDL2, and have been using Python since I first started learning how to code back in April of 2019.
-More recently, I have started learning about full-stack web development with Django and Bootstrap.
-
-If anyone finds this page, please feel free to leave constructive citicism in my code in order to help me improve!
-
-Thanks for spending time checking out my Github page!
+I still have a ton of space to improve, and I'm looking forward to learning more as I go!
