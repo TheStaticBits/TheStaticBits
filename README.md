@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Matthew, a current high school senior. I've been programming on and off as a hobby for over 4 years (since April 2019).
+I'm Matthew, a current high school senior. I've been programming on and off as a hobby for roughly 5 years.
 I'm completely self taught (besides of APCSP and APCSA), using websites like YouTube, StackOverflow, etc. to teach myself how to programming/code.
 I've played around with Python (Pygame, Django), C++ (OpenGL, SDL), HTML/CSS/JS, and in the past, and Unity (though I didn't particularly like it).
 More recently, I've been trying to improve my frontend web design skills in order to develop my own dynamic website where I can put up the little games I make.
